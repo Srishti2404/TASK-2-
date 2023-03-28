@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<math.h>
 int subtraction(int num1,int num2)
 {
     int difference;
