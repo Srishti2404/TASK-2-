@@ -14,5 +14,4 @@ int main()
     scanf("%d%d",&var1,&var2);
     int difference=subtraction(var1,var2);
     printf("output=%d",difference);
-    return 0;
 }
